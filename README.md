@@ -39,7 +39,6 @@ Vision 2026 answers:
 ## Project Structure
 
 ```
-
 vision-2026/
 ├── app.py
 ├── core_logic.py
@@ -60,7 +59,7 @@ vision-2026/
 
 ### 1) Clone
 ```bash
-git clone https://github.com/sbendimerad/vision-2026.git
+git clone https://github.com/sbendimerad/VisionBoard2026.git
 cd vision-2026
 ````
 
