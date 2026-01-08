@@ -2,7 +2,7 @@ import calendar
 from datetime import date
 
 YEAR = 2026
-TAGS = ["Religion", "Health", "Career", "Finance", "Relationships", "Personal Growth", "Values", "Other"]
+TAGS = ["Religion", "Health", "Career", "Finance", "Relationships", "Personal Growth", "Values","Family", "Other"]
 
 def get_iso_weeks_in_month(year, month):
     weeks = []

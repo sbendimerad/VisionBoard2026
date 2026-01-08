@@ -20,12 +20,21 @@ if st.session_state.user is None:
                  caption="Strategy is the art of closing the gap between vision and reality.")
     with col_text:
         st.title("🎯 Vision 2026")
-        st.subheader("The Behavioral Feedback System")
+        st.subheader("A simple system to stay consistent with your goals")
         st.markdown("""
-        Fix your integrity by tracking behaviors, not just results.
-        * **🚀 Execution Grid:** Goal-centric daily matrix.
-        * **🗓️ ISO-Week Logic:** Fair, mathematical accountability.
-        * **📊 Strategic Reflection:** Automated long-term health checks.
+        Vision 2026 helps you focus on **what really matters**:  
+        showing up consistently — day after day, week after week.
+
+        Instead of tracking tasks, you track **habits, commitments, and long-term intentions**.
+
+        **What you can do:**
+        - Track your daily and weekly habits in one clear place
+        - Keep sight of your monthly, quarterly, and yearly goals
+        - See where you’re consistent — and where you need to adjust
+        - Reflect and improve without guilt or pressure
+
+        This is not a productivity hack.  
+        It’s a **clarity and accountability system**.
         """)
         st.divider()
 

@@ -114,9 +114,9 @@ streamlit run app.py
 
 ## Deployment Notes (Streamlit Cloud / others)
 
-For deployment, you should not upload `secrets.toml`.
-
-Instead, set the secret in your platform settings:
+* For deployment, you should not upload `secrets.toml`.
+* Instead, set the secret in your platform settings.
+👉 You can deploy on : https://share.streamlit.io
 
 ## Security (MVP)
 
