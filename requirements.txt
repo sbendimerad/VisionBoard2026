@@ -4,3 +4,4 @@ streamlit
 psycopg2-binary 
 streamlit-authenticator
 python-dotenv
+altair==4.2.2
